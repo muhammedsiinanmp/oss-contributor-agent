@@ -3,6 +3,8 @@
 Local-first agentic workflow for discovering, investigating,
 implementing, and preparing high-quality open-source contributions.
 
+> **Status:** Concept stage. This repo holds the project brief, and no code has been written yet.
+
 ## Why?
 
 Finding a good open-source contribution is often harder than
